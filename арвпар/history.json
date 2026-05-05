@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-05 23:17:53",
+    "from_currency": "USD",
+    "to_currency": "RUB",
+    "amount": 100.0,
+    "result": 9185.0
+  },
+  {
+    "date": "2026-05-05 23:18:18",
+    "from_currency": "USD",
+    "to_currency": "CNY",
+    "amount": 100.0,
+    "result": 723.5
+  }
+]
